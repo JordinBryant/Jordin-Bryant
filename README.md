@@ -6,7 +6,11 @@
 ## GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Jordintaylor095&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordintaylor095&langs_count=5&theme=tokyonight)]()
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jordintaylor095&theme=jolly)](https://git.io/streak-stats)
+
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordintaylor095&langs_count=5&theme=tokyonight)]()
+  
+
 <!--
 **Jordintaylor095/Jordintaylor095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
