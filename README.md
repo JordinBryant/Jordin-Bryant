@@ -1,4 +1,4 @@
-### 👋 Hello! My name is Jordin Bryant, I am a Full Stack Software Engineer. I love learning new things and working with others to resolve problems! I have a background in Cosmetology, personal fitness training, and I was also a flight attendant, so helping people has also become a passion of mine! I am excited to have entered into the world of technology, where I can implement some of my problem-solving experience in a progressive way. Feel free to reach out if you have any questions!
+### 👋 Hello! My name is Jordin Bryant, I am a Full Stack Software Engineer. I love learning new things and working with others to resolve problems! I have a background in Cosmetology, personal fitness training, and I was also a Flight Attendant, so helping people has also become a passion of mine! I am excited to have entered into the world of technology, where I can implement some of my problem-solving experience in a progressive way. Feel free to reach out if you have any questions!
 
 * Intrested in art, beauty, fitness, movies, and travel :white_heart:
 * 📫 Email: Jordintaylor095@gmail.com
